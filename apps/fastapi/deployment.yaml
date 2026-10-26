@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: fastapi
-          image: hemanthreddy1021/devops-fastapi:fd1a2332f5f54e97188997fe4dac118cf36d72a8
+          image: hemanthreddy1021/devops-fastapi:nonexistent-v999
           ports:
             - containerPort: 8000
