@@ -16,4 +16,4 @@ spec:
         - name: fastapi
           image: hemanthreddy1021/devops-fastapi:fd1a2332f5f54e97188997fe4dac118cf36d72a8
           ports:
-            - containerPort: 80
+            - containerPort: 8000
